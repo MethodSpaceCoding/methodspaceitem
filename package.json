@@ -1,0 +1,11 @@
+{
+  "name": "token-aktif-etme",
+  "version": "1.0.0",
+  "description": "method-space",
+  "main": "methodspace.js",
+  "author": "MethodSpace",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.0.0"
+  }
+}
